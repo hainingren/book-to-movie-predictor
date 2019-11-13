@@ -1,0 +1,5 @@
+{
+    "name": "FastText Model",
+    "weightsPath": "weights/fasttext_best",
+    "thresh": 0.20072168111801147
+}

@@ -1,0 +1,8 @@
+{
+    "trainPath": "data/derived/book_movie_labels_train.csv",
+    "testPath": "data/derived/book_movie_labels_test.csv",
+    "fastTextOpts": {"wordNgrams":2,
+                    "verbose": 0,
+                    "epoch": 30,
+                    "dim": 100}
+}
